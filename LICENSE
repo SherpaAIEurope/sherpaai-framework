@@ -1,0 +1,110 @@
+SHERPA.AI LICENSE Version, 1 December 2021
+
+Trademarks
+
+Although this code is free, it is very important that we strictly enforce our trademark rights, in order to be able to protect you. This means that, while you have considerable freedom to run this software (always complying with the conditions of this license), there are tight restrictions on your ability to use the Sherpa.ai names and logos in ways which fall in the domain of trademark law.
+
+Preamble
+
+This Sherpa.ai License is intended to guarantee your freedom to share and run this versions of this program, provided that it is dedicated to the field of non-profit experimentation, and/or non-profit educational purposes. In these cases, Sherpa.ai must be expressly mentioned. For any other different use, the express approval of Sherpa Europe, S.L. must be obtained in advance and in writing.
+
+Sherpa.ai License does not allow to distribute copies of the software (whether gratis or for a fee ). Sherpa.ai License allows to execute the software.
+
+There is no warranty for this free software. For both users' and authors' sake, the Sherpa.ai License requires that modified versions (if any) be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.
+
+The precise terms and conditions for execution, follow.
+
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to version 1 of the Sherpa.ai License.
+
+A "covered work" means either the unmodified Program or a work based on the Program.
+
+To "propagate" a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy.  Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
+
+To "convey" a work means any kind of propagation that enables other parties to make or receive copies.  Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
+
+An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License.  If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
+
+1. Source Code.
+
+The "source code" for a work means the preferred form of the work for making modifications to it.  "Object code" means any non-source form of a work.
+
+A "Standard Interface" means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.
+
+The "System Libraries" of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form.  A "Major Component", in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.
+
+The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work.  For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.
+
+The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.
+
+The Corresponding Source for a work in source code form is that same work.
+
+2. Basic Permissions.
+
+All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program.  The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work.  This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
+
+This Sherpa.ai License is intended to guarantee your freedom to share and execute all versions of this program, provided that it is dedicated to the field of non-profit experimentation, and/or non-profit educational purposes. In these cases, Sherpa.ai must be expressly mentioned. For any other different use, the express approval of Sherpa Europe, S.L. must be obtained in advance and in writing.
+
+Sherpa.ai License does not allow to distribute copies of the software (whether gratis or for a fee). Sherpa.ai License allows to execute the software.
+
+Sublicensing is not allowed.
+
+3. Conveying Verbatim Copies.
+
+You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.
+
+4. Conveying Modified Source Versions.
+
+This is not allowed.
+
+5. Conveying Non-Source Forms.
+
+This is not allowed.
+
+6. Termination.
+
+You may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License.
+
+If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material.
+
+7. Acceptance Required for Having Copies.
+
+You are required to accept this License in order to receive or run a copy of the Program.
+
+8. Automatic Licensing of Downstream Recipients.
+
+Each time you convey a covered work, the recipient must accept a license from the original licensors to run that work, subject to this License.
+
+9. Patents.
+
+The patent and intellectual property rights, present and future, belong to Sherpa Europe, SL. Furthermore, in the event that Sherpa Europe, SL. Applies for a patent, the licensee of this license will be obliged to support Sherpa Europe, SL. In the technical and legal process of obtaining the mentioned patent.
+
+Sherpa Europe, SL grants you a non-exclusive, worldwide, royalty-free license, to use and run the contents of this program version. This, provided that it is dedicated to the field of non-profit experimentation, and/or non-profit educational purposes. In these cases, Sherpa.ai must be expressly mentioned. For any other different use, the express approval of Sherpa Europe, S.L. must be obtained in advance and in writing.
+
+Sherpa.ai License does not allow to distribute copies of the software (whether gratis or for a fee ).
+
+10. No Surrender of Others' Freedom.
+
+If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License.
+
+11. Revised Versions of this License.
+
+Sherpa Europe, SL may publish revised and/or new versions of this License from time to time.
+
+Each version is given a distinguishing version number.  If the Program specifies that a certain numbered version of the Sherpa.ai License "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published. If not, the new versions will need your prior acceptance.
+
+12. Disclaimer of Warranty.
+
+THERE IS NO WARRANTY FOR THE PROGRAM.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+13. Limitation of Liability.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+END OF TERMS AND CONDITIONS
+
+
