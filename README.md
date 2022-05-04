@@ -28,7 +28,7 @@
 </details>
 <br />
 
-# About The Project
+## About The Project
 
 The **[Sherpa.ai](https://www.sherpa.ai) Privacy-Preserving Federated Learning Framework** has been developed to facilitate open research in the ﬁeld, with the objective of building models that learn from decentralized data, preserving data privacy.
 
